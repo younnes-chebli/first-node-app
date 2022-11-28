@@ -20,5 +20,8 @@
   "homepage": "https://github.com/younnes-chebli/first-node-app#readme",
   "dependencies": {
     "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }
